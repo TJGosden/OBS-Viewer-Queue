@@ -3,3 +3,5 @@ Allows stream viewers to enter a queue, where their names will then be displayed
 
 # How to use
 Once downloaded, add the **"Queue_v3.py"** file to your OBS "Scripts" tabs which can be found under "Tools". 
+
+![Settings](Queue_GUI.JPG)
