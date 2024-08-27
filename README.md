@@ -11,7 +11,7 @@ Once downloaded, add the **"Queue_v3.py"** file to your OBS `Scripts` tabs which
 - User: User you want to post as.
 - Oauth: Your authorisation key, which can be found on [this site](https://twitchapps.com/tmi/)
 - Test: By pressing the `Post Code` button, you can test whether you are connected to your stream chat. If so It should post a message with whatever you have written in "Arena Code".
-- Sources: You can then select from a list of text sources, "One", "Two", and "Next", where the viewers in your queue will be displayed, "One", "Two", and "Next".
+- Sources: You can then select from a list of text sources, "One", "Two", and "Next", where the viewers in your queue will be displayed.
 - Alert Source: You can then also select a video or audio source that will play every time a viewer is queued up as "P1" or "P2".
 - Number of Games: Finally you can select the number of games you want to keep track of for each entrant. Once the count is reached, the next viewer will be cycled in.
 
